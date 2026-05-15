@@ -1,6 +1,6 @@
 # sanderling
 
-Autonomous property-based testing for mobile and web apps. Specs in TypeScript. Core in Go. Drives native apps through Maestro and the web through the Chrome DevTools Protocol.
+Autonomous property-based testing for mobile and web apps. Specs in TypeScript. Core in Go.
 
 > Alpha. Android, iOS, and web (Chrome). Full scope in the [v0.1.0 roadmap](https://github.com/priyanshujain/sanderling/issues/4).
 

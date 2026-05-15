@@ -50,8 +50,8 @@ sanderling doctor [--platform web|android|ios|all]
 | Platform | Checks |
 |---|---|
 | `web` | headless Chromium can launch (the bundled CDP surface boots a real browser). |
-| `android` | `adb` on PATH; `emulator` on PATH or under `ANDROID_HOME`; Java 17+; embedded Maestro sidecar JAR is real. |
-| `ios` | `xcrun` on PATH; `simctl` on PATH; Java 17+; embedded Maestro sidecar JAR is real. |
+| `android` | `adb` on PATH; `emulator` on PATH or under `ANDROID_HOME`; Java 17+; embedded native sidecar JAR is real. |
+| `ios` | `xcrun` on PATH; `simctl` on PATH; Java 17+; embedded native sidecar JAR is real. |
 
 ## `sanderling version`
 
